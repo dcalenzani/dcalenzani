@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dcalenzani
 - 👀 I’m interested in text analysis.
 - 🌱 I’m currently learning python, SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on creating data visualizations from national databases
 - 📫 How to reach me: dcalenzani@pucp.pe
