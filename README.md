@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dcalenzani
-- 👀 I’m interested in text analysis.
-- 🌱 I’m currently learning python, SQL
-- 💞️ I’m looking to collaborate on creating data visualizations from national databases
+- 👋 Hi, I’m Daniel or Dani
+- 👀 I’m interested in analyzing unestructured text
+- 🌱 I’m currently learning Python (Blessed be Dr.Chuck), SQL and 'data analytics' 
+- 💞️ I’m looking to collaborate on creating data visualizations and learning materials
 - 📫 How to reach me: dcalenzani@pucp.pe
