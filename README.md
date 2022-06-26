@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel or Dani
-- 👀 I’m interested in analyzing unestructured data 
-- 🌱 I’m currently learning Python (Blessed be Dr.Chuck), SQL and 'data analytics' 
+- 👀 I’m interested in analyzing unestructured data
+- 🌱 I’m currently learning Python (Blessed be Dr.Chuck), SQL and 'data analytics'
 - 💞️ I’m looking to collaborate on creating data visualizations and learning materials
 - 📫 How to reach me: dcalenzani@pucp.pe
 
@@ -12,4 +12,9 @@ I've studied cultural anthropology as a profession and I've noticed that one of 
 > I think this is where computers and coding come into work. I'm still quite new in this field, but I'm eager into creating a model for analyzing cultural data through the lens of data analysis, merging what can be found through primary fonts (interviews, fieldwork, focus groups, etc.) and secondary fonts (navigational following, online datasets, etc.)
 
 ### Not so important but maybe a little bit...
-I'm a very political being, I think that politics are a natural part of our development as humans and as a society. Nothing its outside politics. In relationship to computers this means I think **piracy is ok, specially if you pirate microsoft**. 
+I'm a very political being, I think that politics are a natural part of our development as humans and as a society. Nothing its outside politics. In relationship to computers this means I think **piracy is ok, specially if you pirate microsoft**.
+
+## Current projects:
+- Im learning statistical data analysis, to compliment my learnings in qualitative analysis.
+- Im learning to use languages as Python, SQL and R for analyzing data and creating visualizations
+- Im learning a little bit of Markdown.
