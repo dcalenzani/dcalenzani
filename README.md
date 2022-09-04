@@ -18,3 +18,4 @@ I'm a very political being, I think that politics are a natural part of our deve
 - Im learning statistical data analysis, to compliment my learnings in qualitative analysis.
 - Im learning to use languages as Python, SQL and R for analyzing data and creating visualizations
 - Im learning a little bit of Markdown.
+- Im learning git (and I must say I'm feeding a love/hate relationship with it)
