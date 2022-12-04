@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Daniel or Dani
 - 👀 I’m interested in analyzing unestructured data
+- 🌱I seriously think that descentralized digital technologies can help the working class in their fights against multinationals.
 - 🌱 I’m currently learning Python (Blessed be Dr.Chuck), SQL and 'data analytics'
 - 💞️ I’m looking to collaborate on creating data visualizations and learning materials
 - 📫 How to reach me: dcalenzani@pucp.pe
@@ -15,7 +16,5 @@ I've studied cultural anthropology as a profession and I've noticed that one of 
 I'm a very political being, I think that politics are a natural part of our development as humans and as a society. Nothing its outside politics. In relationship to computers this means I think **piracy is ok, specially if you pirate microsoft**.
 
 ## Current projects:
-- Im learning statistical data analysis, to compliment my learnings in qualitative analysis.
-- Im learning to use languages as Python, SQL and R for analyzing data and creating visualizations
-- Im learning a little bit of Markdown.
-- Im learning git (and I must say I'm feeding a love/hate relationship with it)
+- Personal web portafolio
+- Vehicle-victims regression
