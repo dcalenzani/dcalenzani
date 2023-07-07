@@ -1,21 +1,15 @@
 - 👋 Hi, I’m Daniel or Dani
 - 👀 I’m interested in analyzing unestructured data
-- 🌱I seriously think that descentralized digital technologies can help the working class in their fights against multinationals.
-- 🌱 I’m currently working with SQL, python and R for data analysis, but have some personal projects on C++ and HTML/CSS/Javascript
-- 💞️ I’m looking to collaborate on creating data visualizations and text analysis
-- 📫 How to reach me: dcalenzani@pucp.pe
-
-## Myself in a bit more depth:
-I was born in Lima, Perú, in 1995. This where very convoluted times for my country and with the new millenia my dad also lost his job. One of my first memories was seeing in the news Alejandro Toledo extending his arms to the crowd(his classical pose). While my dad searched for a job and my mom tried to sell cosmetics to their friends, I used to stay with my aunt, she had the first PC of my family and she even bought me a game (Jazz Jackrabbit) which I never quite learned how to play. I remember seeing her use command prompt to access the game and thinking **maybe some day I can do this too**
+- 🌱I seriously think that descentralized digital technologies can help the working class in their fights against multinationals.But knowledge and material growth are necessary to overcome the inequalities that exist today
+- F*** Bill Gates
 
 ## What I'm searching or trying to do:
-I've studied cultural anthropology as a profession and I've noticed that one of the biggest difficulties that we have when interacting with hardcore qualitative data is the amount of reading it needs to be done to find somewhat insightful findings. Anthropologist find some sort of morbid pleasure in the *depth* of our findings, the result of an extensive fieldwork with very intimate interviews **cannot** be translated in just a few senteces, at the same time, qualitative findings do not always have a correlations with quantitative findings... but perhaps...
-> I think this is where computers and coding come into work. I'm still quite new in this field, but I'm eager into creating a model for analyzing cultural data through the lens of data analysis, merging what can be found through primary fonts (interviews, fieldwork, focus groups, etc.) and secondary fonts (navigational following, online datasets, etc.)
+I've noticed that one of the biggest difficulties that we have when interacting with hardcore qualitative data is the amount of reading it needs to be done to find somewhat insightful findings. Anthropologist find some sort of morbid pleasure in the *depth* of their findings, the result of an extensive fieldwork with very intimate interviews suddenly condensed in one sentence. However, most of the time, this findings have little to no correlation to the quantitative data found in the same field.
 
 ### Not so important but maybe a little bit...
-I'm a very political being, I think that politics are a natural part of our development as humans and as a society. Nothing its outside politics. In relationship to computers this means I think **piracy is ok, specially if you pirate microsoft**.
+I'm a very political being, I think that politics are a natural part of our development as humans and as a society. Nothing its outside politics. In relationship to computers this means **liberate all software** standpoint.
 
 ## Current personal projects:
 - Personal web portafolio
-- Suicide in Latam and Peru analysis
-- Guinea Pig farm automatized environment
+- Academic Crawler v.1
+- Dropplet, an IOT gardening helper
